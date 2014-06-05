@@ -6,7 +6,7 @@
         id        = "org.concord.smartgraphs"
         version   = "1.1.0">
 
-    <name>SmartGraphs</name>
+    <name>SmartGraphs (sams fork)</name>
 
     <description>
         Graphing activities to explore science and math topics
