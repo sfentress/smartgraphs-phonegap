@@ -54,7 +54,7 @@
     <gap:plugin name="com.phonegap.plugin.statusbar" version="1.0.1" />
 
     <!-- Define app icon for each platform. -->
-    <icon src="icon.png" />
+    <icon src="app-images/icon.png" />
 <!--     <icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
     <icon src="res/icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:density="mdpi" />
     <icon src="res/icon/android/icon-72-hdpi.png"   gap:platform="android"    gap:density="hdpi" />
@@ -81,6 +81,7 @@
     <gap:splash src="res/screen/ios/screen-ipad-landscape.png"     gap:platform="ios"     width="1024" height="768" />
     <gap:splash src="res/screen/windows-phone/screen-portrait.jpg" gap:platform="winphone" />
  -->
+    <gap:splash src="app-images/splash-screen.png"     gap:platform="ios"     width="1024" height="768" />
     <!--
         Define access to external domains.
 
